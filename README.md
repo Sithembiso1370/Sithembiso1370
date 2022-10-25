@@ -32,8 +32,11 @@ within the web development space.
 ## 🛠 Skills
 - Javascript, HTML, CSS...
 - Python : Django Full Stack
+- PHP
 - Java : Springboot
 - Javascript : MERN Stack,React,MEAN
 - Creative problem solving
+- SQL reporting
+- Git and Github
 
 
