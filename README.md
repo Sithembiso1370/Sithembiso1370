@@ -27,8 +27,6 @@ within the web development space.
 
 
 
-
-
 ## 🛠 Skills
 - Javascript, HTML, CSS...
 - Python : Django Full Stack
