@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotesgram.com%2Fcomputer-coding-quotes%2F&psig=AOvVaw0ptV1MuH_lqgNDhYvjJTjg&ust=1666947492479000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKDr98GFgPsCFQAAAAAdAAAAABAJ))
 
 
  # Full Stack Software Engineer
