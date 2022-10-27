@@ -26,7 +26,6 @@ within the web development space.
 - Linkdin : https://www.linkedin.com/in/sithembisomaphanga
 
 
-
 ## 🛠 Skills
 - Javascript, HTML, CSS...
 - Python : Django Full Stack
