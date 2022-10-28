@@ -29,8 +29,8 @@ within the web development space.
 ## 🛠 Skills
 - Javascript, HTML, CSS...
 - Python 
-: Django Full Stack Web Development( 6 Completed Projecs)
-: Pygame Game Development( 3 Completed Projecs)
+-- Django Full Stack Web Development( 6 Completed Projecs)
+-- Pygame Game Development( 3 Completed Projecs)
 - PHP
 - Java : Springboot
 - Javascript : MERN Stack,React,MEAN
