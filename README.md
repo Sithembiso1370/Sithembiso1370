@@ -31,8 +31,8 @@ I am an Undergraduate Computer Science student currently in my first year at Uni
 - [Django Todo App](https://github.com/sithembisomaphanga/django-todo-app) - A todo list application built with Django, Bootstrap, and SQLite.
 - [MERN Stack E-commerce](https://github.com/sithembisomaphanga/mern-stack-e-commerce) - A fully functional e-commerce application built with the MERN stack.
 - [Java Spring Boot CRUD](https://github.com/sithembisomaphanga/java-spring-boot-crud) - A CRUD application built with Java Spring Boot and MySQL.
-- [Software Development ][(https://github.com/sithembisomaphanga/pygame-space-invaders)](https://github.com/Sithembiso1370/Software_Development) - (https://github.com/Sithembiso1370/Software_Development) - A of all projects I have worked with and bussy working with.
-### Javascript Projects
+- [Software Development ](https://github.com/Sithembiso1370/Software_Development) - A of all projects I have worked with and bussy working with.
+### Javascript Projectshttps://github.com/Sithembiso1370/Software_Development
 - [Django Todo App](https://github.com/sithembisomaphanga/django-todo-app) - A todo list application built with Django, Bootstrap, and SQLite.
 - [MERN Stack E-commerce](https://github.com/sithembisomaphanga/mern-stack-e-commerce) - A fully functional e-commerce application built with the MERN stack.
 - [Java Spring Boot CRUD](https://github.com/sithembisomaphanga/java-spring-boot-crud) - A CRUD application built with Java Spring Boot and MySQL.
