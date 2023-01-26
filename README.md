@@ -1,41 +1,30 @@
 
-![Logo](https://cdn.quotesgram.com/img/73/46/261252081-programming-quote-31.png)
+# Full Stack Software Engineer
+### Sithembiso Maphanga
 
+Hi, I'm Sithembiso 👋
 
- # Full Stack Software Engineer
-                   Sithembiso Maphanga
+I am an Undergraduate Computer Science student currently in my first year at Unisa and a self-taught software developer with a passion for Web Development. My primary expertise lies in Python, Django and MERN stack. I am also proficient in Javascript, HTML, CSS, Java and PHP.
 
-# Hi, I'm Sithembiso 👋
+### Profile 
+- 👩‍💻 I have a strong background in Full-Stack web development using Python, Django and MERN stack.
+- 🧠 I am constantly learning and expanding my skills, currently learning Django web development.
+- 👯‍♀️ I am highly collaborative and open to working on projects with other developers.
+- 🤔 I am actively seeking part-time or full-time employment or an internship within the web development space in South Africa.
 
- I am an Undergraduate Computer Science student doing my first year at Unisa and Self taught Software developer with a passion for Web Development
-##                   Profile 
-👩‍💻 I'm currently working on Python,Django and MERN projects
+### Skills
+- Strong knowledge of Python and Django framework 
+- Proficient in MERN stack (MongoDB, Express, React and Node.js) 
+- Experience with Javascript, HTML, CSS
+- Knowledge of Java and PHP
+- Strong problem solving and analytical skills
+- Experience with SQL and NoSQL databases
+- Strong proficiency in Git and Github
+- Experience with Agile development methodologies
+- Familiarity with cloud platforms such as AWS and Azure
+- Understanding of RESTful API design and development
+- Experience with version control systems such as Git, SVN and Mercurial
+- Strong understanding of web security principles and best practices
 
-🧠 I'm currently learning Django web development
-
-👯‍♀️ I'm looking to collaborate on any Javascript,Java and Python projects
-
-🤔 I'm looking for help with finding part time or full time employment or an internship
-within the web development space.
-
-💬 Ask me about any technology I have saved on my github
-
-📫 How to reach me...
-- Call : +2767 823 7246
-- Email : maphangasthembiso@gmail.com
-- Linkdin : https://www.linkedin.com/in/sithembisomaphanga
-
-
-## 🛠 Skills
-- Javascript, HTML, CSS...
-- Python 
--- Django Full Stack Web Development( 6 Completed Projecs)
--- Pygame Game Development( 3 Completed Projecs)
-- PHP
-- Java : Springboot
-- Javascript : MERN Stack,React,MEAN
-- Creative problem solving
-- SQL reporting
-- Git and Github
 
 
