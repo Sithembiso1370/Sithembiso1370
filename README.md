@@ -26,5 +26,11 @@ I am an Undergraduate Computer Science student currently in my first year at Uni
 - Experience with version control systems such as Git, SVN and Mercurial
 - Strong understanding of web security principles and best practices
 
+### Contact
+- Phone : +2767 823 7246
+- Email : maphangasthembiso@gmail.com
+- LinkedIn : https://www.linkedin.com/in/sithembisomaphanga
+
+Feel free to contact me if you would like to collaborate or discuss potential job opportunities. I am highly motivated and eager to work on new projects and learn new technologies.
 
 
