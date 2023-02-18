@@ -1,8 +1,7 @@
 
 # Full Stack Software Engineer
-### Sithembiso Maphanga
+### Hi, I'm Sithembiso Maphanga 👋
 
-Hi, I'm ### Sithembiso Maphanga 👋
 
 I am an Undergraduate Computer Science student currently in my first year at Unisa and a self-taught software developer with a passion for Web Development. My primary expertise lies in Python, Django and MERN stack. I am also proficient in Javascript, HTML, CSS, Java and PHP.
 
