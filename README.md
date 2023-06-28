@@ -76,7 +76,7 @@ I am an Undergraduate Computer Science student currently in my first year at Uni
 
 
 ### Contact
-- Phone : +2767 823 7246
+- Phone : +2784 031 7964
 - Email : maphangasthembiso@gmail.com
 - LinkedIn : https://www.linkedin.com/in/sithembisomaphanga
 
